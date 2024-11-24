@@ -1,0 +1,25 @@
+#---------------------------------- Content ---------------------------------#
+
+# Локация
+#begin location.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/build:location.png
+
+# Данте
+#begin dante.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/build:dante.png
+
+# Вергилий
+#begin vergil.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/build:vergil.png

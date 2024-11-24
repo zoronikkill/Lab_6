@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Downloads\\Game1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4AAE1C4-0536-4B4C-9E8D-3C3F280E88A4}|DevilMayCryGame\\DevilMayCryGame.csproj|d:\\downloads\\game1\\devilmaycrygame\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4AAE1C4-0536-4B4C-9E8D-3C3F280E88A4}|DevilMayCryGame\\DevilMayCryGame.csproj|solutionrelative:devilmaycrygame\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4AAE1C4-0536-4B4C-9E8D-3C3F280E88A4}|DevilMayCryGame\\DevilMayCryGame.csproj|d:\\downloads\\game1\\devilmaycrygame\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4AAE1C4-0536-4B4C-9E8D-3C3F280E88A4}|DevilMayCryGame\\DevilMayCryGame.csproj|solutionrelative:devilmaycrygame\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4AAE1C4-0536-4B4C-9E8D-3C3F280E88A4}|DevilMayCryGame\\DevilMayCryGame.csproj|d:\\downloads\\game1\\devilmaycrygame\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4AAE1C4-0536-4B4C-9E8D-3C3F280E88A4}|DevilMayCryGame\\DevilMayCryGame.csproj|solutionrelative:devilmaycrygame\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4AAE1C4-0536-4B4C-9E8D-3C3F280E88A4}|DevilMayCryGame\\DevilMayCryGame.csproj|d:\\downloads\\game1\\devilmaycrygame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4AAE1C4-0536-4B4C-9E8D-3C3F280E88A4}|DevilMayCryGame\\DevilMayCryGame.csproj|solutionrelative:devilmaycrygame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4AAE1C4-0536-4B4C-9E8D-3C3F280E88A4}|DevilMayCryGame\\DevilMayCryGame.csproj|d:\\downloads\\game1\\devilmaycrygame\\staticobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4AAE1C4-0536-4B4C-9E8D-3C3F280E88A4}|DevilMayCryGame\\DevilMayCryGame.csproj|solutionrelative:devilmaycrygame\\staticobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StaticObject.cs",
+              "DocumentMoniker": "D:\\Downloads\\Game1\\DevilMayCryGame\\StaticObject.cs",
+              "RelativeDocumentMoniker": "DevilMayCryGame\\StaticObject.cs",
+              "ToolTip": "D:\\Downloads\\Game1\\DevilMayCryGame\\StaticObject.cs",
+              "RelativeToolTip": "DevilMayCryGame\\StaticObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:59:27.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameObject.cs",
+              "DocumentMoniker": "D:\\Downloads\\Game1\\DevilMayCryGame\\GameObject.cs",
+              "RelativeDocumentMoniker": "DevilMayCryGame\\GameObject.cs",
+              "ToolTip": "D:\\Downloads\\Game1\\DevilMayCryGame\\GameObject.cs",
+              "RelativeToolTip": "DevilMayCryGame\\GameObject.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:17:57.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\Downloads\\Game1\\DevilMayCryGame\\Player.cs",
+              "RelativeDocumentMoniker": "DevilMayCryGame\\Player.cs",
+              "ToolTip": "D:\\Downloads\\Game1\\DevilMayCryGame\\Player.cs",
+              "RelativeToolTip": "DevilMayCryGame\\Player.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:11:04.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Downloads\\Game1\\DevilMayCryGame\\Program.cs",
+              "RelativeDocumentMoniker": "DevilMayCryGame\\Program.cs",
+              "ToolTip": "D:\\Downloads\\Game1\\DevilMayCryGame\\Program.cs",
+              "RelativeToolTip": "DevilMayCryGame\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:10:35.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "D:\\Downloads\\Game1\\DevilMayCryGame\\Game1.cs",
+              "RelativeDocumentMoniker": "DevilMayCryGame\\Game1.cs",
+              "ToolTip": "D:\\Downloads\\Game1\\DevilMayCryGame\\Game1.cs",
+              "RelativeToolTip": "DevilMayCryGame\\Game1.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAA5wJEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:10:20.46Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

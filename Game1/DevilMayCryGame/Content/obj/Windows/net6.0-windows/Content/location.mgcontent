@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/Downloads/Game1/DevilMayCryGame/Content/location.png</SourceFile>
+  <SourceTime>2024-11-24T18:03:59.9803667+05:00</SourceTime>
+  <DestFile>D:/Downloads/Game1/DevilMayCryGame/Content/bin/Windows/Content/location.xnb</DestFile>
+  <DestTime>2024-11-24T18:54:01.4296509+05:00</DestTime>
+  <Importer>TextureImporter</Importer>
+  <ImporterTime>2022-07-26T16:44:56+05:00</ImporterTime>
+  <Processor>TextureProcessor</Processor>
+  <ProcessorTime>2022-07-26T16:44:56+05:00</ProcessorTime>
+  <Parameters>
+    <Key>ColorKeyEnabled</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>GenerateMipmaps</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
